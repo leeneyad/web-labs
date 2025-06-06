@@ -12,19 +12,19 @@ Each folder represents a different lab or task, with its own HTML and CSS files.
 - fifth/ – Lab 5
 - sixth/ – Lab 6
 - seventh/ – Lab 7
-- eighth/ – Lab 8 (if added later)
+- eighth/ – Lab 8 
 - ninth/ – Lab 9
-- tenth/ – Lab 10: Advanced DOM & API Interaction
+- tenth/ – Lab 10
 
 ## 🛠 Technologies Used
 
 - HTML5  
 - CSS3  
-- JavaScript (DOM & API for Lab 10)
+- JavaScript 
 
 ## 🌐 Notes
 
-- Task names in Lab 10 may appear in Latin because we are using the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) fake API for testing.
+
 - All folders are self-contained — you can open any index.html file directly in the browser.
 - You can explore each lab individually from the corresponding folder.
 
